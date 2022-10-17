@@ -5,10 +5,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "export": "next export",
     "build": "next build && next export",
     "start": "next start",
-    "lint": "next lint",
-    "serve": "next export"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "12.3.1",
