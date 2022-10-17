@@ -1,6 +1,7 @@
 {
-  "name": "test-ssg",
+  "name": "next-static",
   "version": "0.1.0",
+  "homepage": "https://galkinsden.github.io/next-static",
   "private": true,
   "scripts": {
     "dev": "next dev",
