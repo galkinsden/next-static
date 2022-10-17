@@ -12,7 +12,7 @@ const About = () => {
           DEMO NEXT
         </h1>
 
-        <Link href={`${process.env.NEXT_PUBLIC_BASE_PATH}`}>
+        <Link href="/">
           <a>go back</a>
         </Link>
       </main>
